@@ -18,7 +18,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 
 from sklearn.neural_network import MLPClassifier
-from sklearn.metrics import confusion_matrix, accuracy_score, classification_report, roc_auc_score, plot_roc_curve, roc_curve, auc
+from sklearn.metrics import confusion_matrix, accuracy_score, classification_report, roc_auc_score, auc
 from sklearn.model_selection import StratifiedKFold, RandomizedSearchCV
 
 
